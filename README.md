@@ -2,6 +2,8 @@
 
 - linea para conflicto 
 - EN EJECUCION PARA ERRRO 
+breve descripcion
+error de ejecucion 
 ---
 
 ## Tabla de contendo
