@@ -56,4 +56,4 @@ cd ..
 
 [![Click para video](asset/cantante.png)](https://www.youtube.com/watch?v=ws7B6-odAiA)
 
-[![Click para video](https://img.youtube.com/vi/CaQ3OMfbeZo/0.jpg)](https://www.youtube.com/watch?v=CaQ3OMfbeZo)
+[![Click para video](https://tse4.mm.bing.net/th/id/OIP.w-K1aL7b56ye1N3M7MCWigHaFj?rs=1&pid=ImgDetMain&o=7&rm=3)](https://www.youtube.com/watch?v=CaQ3OMfbeZo)
