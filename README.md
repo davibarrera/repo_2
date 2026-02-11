@@ -1,7 +1,7 @@
 # Proyecto de uso de herramienta GIT con contribuyentes 
 
 breve descripcion
-
+error de ejecucion 
 ---
 
 ## Tabla de contendo
