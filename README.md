@@ -1,7 +1,7 @@
 # Proyecto de uso de herramienta GIT con contribuyentes 
 
-breve descripcion
-
+linea para conflicto 
+EN EJECUCION PARA ERRRO 
 ---
 
 ## Tabla de contendo
