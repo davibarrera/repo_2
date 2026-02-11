@@ -27,18 +27,14 @@ error de ejecucion
 
 ---
 
-
-
 ## Requerimientos
 - version minima del lenguaje
 - dependencias necesarias
 - sofware requerido
 
-
-
 ---
-## instalación 
 
+## instalación 
 pasos para instalar el proyecto localmente
 
 cuando el proyecto este instalado podras modificar el repo 
@@ -49,11 +45,13 @@ entre otras configuraciones del repo
 - david
 - kevin 
 
-
-
-
-
-
 ```bash
 git https://github.com/BryanAlexander-Reyes/repo_2.git
 cd proyecto
+cd ..
+
+```
+---
+## video tutorial 
+
+[![Click para video](asset/cantante.png)](https://www.youtube.com/watch?v=ws7B6-odAiA)
