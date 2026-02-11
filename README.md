@@ -1,5 +1,7 @@
 # Proyecto de uso de herramienta GIT con contribuyentes 
 
+- linea para conflicto 
+- EN EJECUCION PARA ERRRO 
 breve descripcion
 error de ejecucion 
 ---
