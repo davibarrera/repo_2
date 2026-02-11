@@ -58,3 +58,8 @@ cd ..
 
 [![Click para video](https://th.bing.com/th/id/OIP.-Gs83fNgoinpq7cUaMhRqQHaEK?w=302&h=180&c=7&r=0&o=7&pid=1.7&rm=3)](https://www.youtube.com/watch?v=CaQ3OMfbeZo)
 
+---
+## demo 
+si quieres ver el programa dar click
+
+[open in stackblitz](https://stackblitz.com/edit/secret-python-bxpxiset?file=main.py) 
